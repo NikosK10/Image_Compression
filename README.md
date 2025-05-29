@@ -42,3 +42,7 @@ This notebook demonstrates how to encode and reconstruct images using a Laplacia
 
 Nikolaos Katsaidonis  
 Lab Assignment for Image & Video Processing
+
+## !!
+
+The project was created as part of the course "Image and Video Processing" at School of Electrical and Computer Engineering, NTUA and the aim of this work is NOT to present it as my own research but as my approach to the problems given.
